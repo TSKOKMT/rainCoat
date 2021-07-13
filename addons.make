@@ -1,0 +1,14 @@
+ofxOpenCv
+ofxCv
+ofxFFApp
+ofxFFSilhouette
+ofxFFTouch
+ofxGui
+ofxLiquidFun
+ofxOsc
+ofxSharedMemory
+ofxSyphon
+ofxTskokmtMath
+ofxTskokmtTool
+ofxTskokmtTranslator
+ofxXmlSettings
